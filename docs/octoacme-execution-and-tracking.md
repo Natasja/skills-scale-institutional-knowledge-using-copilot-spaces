@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Related Resources
+- [Roles & Personas](./octoacme-roles-and-personas.md) — understand team roles during execution
+- [RACI Matrix](./octoacme-raci-matrix.md) — who is responsible for execution and tracking activities
+- [Handoff Checklist](./octoacme-handoff-checklist.md) — use the Design → Dev and Dev → QA checklists to manage work handoffs during execution

@@ -22,3 +22,5 @@ Quality assurance is embedded throughout delivery and release. Pull requests are
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [RACI Matrix](./octoacme-raci-matrix.md)
+- [Cross-Functional Handoff Checklists](./octoacme-handoff-checklist.md)
