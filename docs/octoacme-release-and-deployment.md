@@ -36,3 +36,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Related Resources
+- [Roles & Personas](./octoacme-roles-and-personas.md) — understand who owns each release activity
+- [RACI Matrix](./octoacme-raci-matrix.md) — who is R/A/C/I for release and deployment activities
+- [Handoff Checklist](./octoacme-handoff-checklist.md) — use the QA → Release checklist to confirm quality sign-off before deploying
